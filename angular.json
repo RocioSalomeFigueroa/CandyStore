@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CandyStore"
+    }
+  },
+  "defaultProject": "CandyStore",
+  "cli": {
+    "analytics": "ed7ae01c-dc4e-45eb-8161-469537fceba3"
+  }
 }
